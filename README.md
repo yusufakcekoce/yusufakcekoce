@@ -14,7 +14,8 @@ My other accounts 👨‍💻
 &nbsp;
 <hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufakcekoce)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufakcekoce&show_icons=true&theme=radical)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufakcekoce)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
 **yusufakcekoce/yusufakcekoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
