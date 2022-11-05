@@ -12,11 +12,6 @@ My other accounts 👨‍💻
 <img src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg' alt='twitter' height='40'>](https://twitter.com/yusufakcekoce)&nbsp; [
 <img src='https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/17450051/yusuf-akçekoce)
 &nbsp;
-<hr/>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufakcekoce&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yusufakcekoce&show_icons=true&theme=tokyonight)
-
 
 <!--
 **yusufakcekoce/yusufakcekoce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
