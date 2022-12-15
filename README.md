@@ -10,7 +10,7 @@ Hello, I'm Yusuf. I have been developing myself in the field of Frontend for 7 m
 * ✉️  You can contact me at [yakcekoce@gmail.com](mailto:yakcekoce@gmail.com)
 * ⚡  I’m currently interested: JS / REACT
 
-### Skills
+### Used Technologies
 
 
 <p align="left">
