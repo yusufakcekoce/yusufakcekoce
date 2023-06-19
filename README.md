@@ -4,7 +4,7 @@ Hi Ladies and Gentlemen 👋 Welcome To My GitHub Profile
 Frontend Developer
 ------------------
 
-Hello, I'm Yusuf. I have been developing myself in the field of Frontend. I am a 2nd year student at Atatürk University - Computer Programming (Open Education) and I am graduating in May 2023. I am also a graduate of the Frontend Bootcamp organized by Kodluyoruz. I generally used Codewars, Medium, Stackoverflow and documentation to improve myself in this process. I also have articles on Medium..
+Hello, I'm Yusuf. I have been developing myself in the field of Frontend. I am a 2nd year student at Atatürk University - Computer Programming (Open Education) and I am graduating in July 2023. I am also a graduate of the Frontend Bootcamp organized by Kodluyoruz. I generally used Codewars, Medium, Stackoverflow and documentation to improve myself in this process. I also have articles on Medium..
 
 
 * 🌍  I'm based in Izmir/Turkey
